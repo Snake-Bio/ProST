@@ -20,6 +20,7 @@ pytorch==2.1.2+cu121
 
 torch_geometric==2.7.0
 
+The recommended operating system is Ubuntu 20.04 LTS. Some packages may not download correctly on Windows.
 
 ## Usage
 
