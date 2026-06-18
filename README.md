@@ -23,7 +23,7 @@ Place the raw spatial transcriptomics data (e.g., DLPFC) in the folder ***Data**
 
 ### Model Training and Testing
 
-Run ***ProST/DLPFC__test.py*** to train and test the ProST model:
+Run ***ProST/DLPFC.py*** to train and test the ProST model:
 
 `python DLPFC.py`
 
