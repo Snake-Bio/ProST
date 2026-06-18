@@ -35,7 +35,7 @@ Run ***ProST/DLPFC.py*** to train and test the ProST model:
 `python DLPFC.py`
 
 
-###  Contact
+##  Contact
 
 If you have any questions, feel free to contact [sunchenlan@hainanu.edu.cn](mailto:sunchenlan@hainanu.edu.cn).
 
