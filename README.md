@@ -1,6 +1,6 @@
 # ProST: an image prompt-guided multimodal representation learning framework for spatial domain identification
 #
-![](https://github.com/Snake-Bio/ProST/methods.png)
+![](https://github.com/Snake-Bio/ProST/blob/main/methods.png)
 <br>
 ## Requirements
 
