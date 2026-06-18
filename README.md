@@ -7,11 +7,17 @@
 You'll need to install the following packages in order to run the codes.
 
 Python==3.10.19
+
 numpy==1.26.4
+
 pandas==2.0.3
+
 scipy==1.10.1
+
 stlearn==0.4.8
+
 pytorch==2.1.2+cu121
+
 torch_geometric==2.7.0
 
 
